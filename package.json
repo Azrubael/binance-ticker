@@ -1,0 +1,9 @@
+{
+  "name": "websocket-ticker.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "websocket-ticker.js",
+  "dependencies": {
+    "node-binance-api": "^0.13.1"
+  }
+}
